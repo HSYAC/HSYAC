@@ -13,9 +13,13 @@
 //5. system.out.println("hello,world~");表示输出"hello.world~"到屏幕 
 
 //6. ；表示语句结束 public class Hello {
+
 //编写一个main方法
+
 public static void main(String[] args) {
+
     System.out.println("hello,world~");
+    
 }}s's
 
 # javac=编码
@@ -27,9 +31,15 @@ java文件》编码》class文件
 无实时
 
 开源地址：https://github.com/liyupi/code-roadmap
+
 在线阅读：https://luxian.yupi.icu
-全部思维导图：百度网盘 https://pan.baidu.com/s/1U36gnOSrkxkaEPDn9snZJg 提取码：bndm
+
+全部思维导图：
+
+百度网盘 https://pan.baidu.com/s/1U36gnOSrkxkaEPDn9snZJg 提取码：bndm
 
 
-《韩顺平零基础30天学会java》 链接:https://pan.baidu.com/s/1Iy0v1vnvI1GpdFPzkIhebw?pwd=a6b1 
+《韩顺平零基础30天学会java》 
+
+链接:https://pan.baidu.com/s/1Iy0v1vnvI1GpdFPzkIhebw?pwd=a6b1 
 提取码:a6b1
